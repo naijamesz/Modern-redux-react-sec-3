@@ -9,10 +9,10 @@ function App() {
     <>
       <section className='hero is-primary'>
         <div className='hero-body'>
-          <p className='title has-text-centered'>Personal Digital Assistants</p>
+          <p className='title has-text-centered is-1'>Personal Digital Assistants</p>
         </div>
       </section>
-      <div className='container has-text-centered'>
+      <div className='container'>
         <div className='section'>
           <div className='columns'>
             <div className='column is-4'>
